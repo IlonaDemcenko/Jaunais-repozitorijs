@@ -11,4 +11,9 @@
 | Paragraph | Text |
 
 ![Bilde](sun.png)
+
+
+
+
+
 [Links](https://www.w3schools.com/)
