@@ -1,5 +1,5 @@
 # Jaunais repozitorijs
-*Jaunais repozitorijs
+*Jaunais repozitorijs*
  
  | Syntax | Description |
 | ----------- | ----------- |
