@@ -1,7 +1,7 @@
 # Jaunais repozitorijs
 *Jaunais repozitorijs*
  
- | Syntax | Description |
+ | Tabulas | Piemērs |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
