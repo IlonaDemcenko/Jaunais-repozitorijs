@@ -11,4 +11,4 @@
 | Paragraph | Text |
 
 ![Bilde](c:\11561_Sun.jpg)
-[Bilde](https://www.pngegg.com/en/png-boxvc)
+[Links](https://www.w3schools.com/)
