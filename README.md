@@ -10,5 +10,5 @@
 | Header | Title |
 | Paragraph | Text |
 
-![Bilde](D:\Sun.png)
+![Bilde](Sun.png)
 [Links](https://www.w3schools.com/)
